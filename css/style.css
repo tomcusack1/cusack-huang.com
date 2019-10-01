@@ -129,7 +129,7 @@
      color: #363030;
 }
  .logo{
-    background:url(images/logo.png) no-repeat;
+    background:url(../images/logo.png) no-repeat;
      width:67px;
      height:69px;
     margin-top:8%;
@@ -147,7 +147,7 @@
     padding:4rem 0;
 }
  .twitter{
-    background:url(images/twitter2x.png) no-repeat;
+    background:url(../images/twitter2x.png) no-repeat;
      width:22px;
      height:22px;
     background-size:22px 22px;
@@ -155,7 +155,7 @@
     float:left;
 }
  .linkedin{
-    background:url(images/linkedin2x.png) no-repeat;
+    background:url(../images/linkedin2x.png) no-repeat;
      width:22px;
      height:22px;
     background-size:22px 22px;
@@ -170,7 +170,7 @@
     border:0;
 }
  .footer {
-    background-image:url(images/logo-small.png);
+    background-image:url(../images/logo-small.png);
     background-repeat: no-repeat;
     background-position:right top;
      height:33px;
@@ -190,7 +190,7 @@
  .nyu{
     width:115px;
     height:31px;
-    background:url(images/logos/nyu2x.png) no-repeat center center;
+    background:url(../images/logos/nyu2x.png) no-repeat center center;
     background-size:115px 31px;
     padding:2rem 0;
     margin:0 auto;
@@ -199,7 +199,7 @@
  .squarespace{
     width:115px;
     height:31px;
-    background:url(images/logos/squarespace2x.png) no-repeat center center;
+    background:url(../images/logos/squarespace2x.png) no-repeat center center;
     background-size:115px 31px;
     padding:2rem 0;
     margin:0 auto;
@@ -208,7 +208,7 @@
  .fit{
     width:115px;
     height:31px;
-    background:url(images/logos/fit2x.png) no-repeat center center;
+    background:url(../images/logos/fit2x.png) no-repeat center center;
     background-size:115px 31px;
     padding:2rem 0;
     margin:0 auto;
@@ -217,7 +217,7 @@
  .kipling{
     width:115px;
     height:31px;
-    background:url(images/logos/kipling2x.png) no-repeat center center;
+    background:url(../images/logos/kipling2x.png) no-repeat center center;
     background-size:115px 31px;
     padding:2rem 0;
     margin:0 auto;
@@ -226,7 +226,7 @@
  .pond5{
     width:115px;
     height:31px;
-    background:url(images/logos/pond52x.png) no-repeat center center;
+    background:url(../images/logos/pond52x.png) no-repeat center center;
     background-size:115px 31px;
     padding:2rem 0;
     margin:0 auto;
@@ -235,7 +235,7 @@
  .horizon{
     width:115px;
     height:31px;
-    background:url(images/logos/horizon2x.png) no-repeat center center;
+    background:url(../images/logos/horizon2x.png) no-repeat center center;
     background-size:115px 31px;
     padding:2rem 0;
     margin:0 auto;
@@ -244,7 +244,7 @@
  .skillshare{
     width:115px;
     height:31px;
-    background:url(images/logos/skillshare2x.png) no-repeat center center;
+    background:url(../images/logos/skillshare2x.png) no-repeat center center;
     background-size:115px 31px;
     padding:2rem 0;
     margin:0 auto;
@@ -253,7 +253,7 @@
  .carmax{
     width:115px;
     height:31px;
-    background:url(images/logos/carmax2x.png) no-repeat center center;
+    background:url(../images/logos/carmax2x.png) no-repeat center center;
     background-size:115px 31px;
     padding:2rem 0;
     margin:0 auto;
@@ -300,11 +300,11 @@
 }
  @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
      .logo{
-        background:url(images/logo2x.png) no-repeat;
+        background:url(../images/logo2x.png) no-repeat;
         background-size:67px 69px;
     }
      .footer{
-        background-image:url(images/logo-small2x.png);
+        background-image:url(../images/logo-small2x.png);
          background-size:31px 33px;
     }
 }
@@ -409,7 +409,7 @@
      text-decoration: none;
      white-space: nowrap;
      background-color: #fff1e5;
-     background-image: url(images/right-arrow.png);
+     background-image: url(../images/right-arrow.png);
      background-repeat: no-repeat;
      background-position:right;
      background-size:16px 16px ;
